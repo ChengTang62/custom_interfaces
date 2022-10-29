@@ -1,0 +1,7 @@
+float32 x
+float32 y
+---
+uint64 duration
+---
+float32 dist_x 
+float32 dist_y
